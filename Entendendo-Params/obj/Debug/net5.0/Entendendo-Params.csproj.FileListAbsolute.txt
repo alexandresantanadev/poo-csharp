@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.csproj.AssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\bin\Debug\net5.0\Entendendo-Params.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\bin\Debug\net5.0\Entendendo-Params.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\bin\Debug\net5.0\Entendendo-Params.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\bin\Debug\net5.0\Entendendo-Params.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\bin\Debug\net5.0\Entendendo-Params.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\bin\Debug\net5.0\ref\Entendendo-Params.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\bin\Debug\net5.0\Entendendo-Params.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\ref\Entendendo-Params.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Params\obj\Debug\net5.0\Entendendo-Params.genruntimeconfig.cache

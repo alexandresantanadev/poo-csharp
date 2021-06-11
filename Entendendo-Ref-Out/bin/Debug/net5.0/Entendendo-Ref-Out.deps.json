@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Entendendo-Ref-Out/1.0.0": {
+        "runtime": {
+          "Entendendo-Ref-Out.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entendendo-Ref-Out/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

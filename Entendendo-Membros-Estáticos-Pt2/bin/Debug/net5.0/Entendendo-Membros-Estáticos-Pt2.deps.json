@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Entendendo-Membros-Estáticos-Pt2/1.0.0": {
+        "runtime": {
+          "Entendendo-Membros-Estáticos-Pt2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entendendo-Membros-Estáticos-Pt2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

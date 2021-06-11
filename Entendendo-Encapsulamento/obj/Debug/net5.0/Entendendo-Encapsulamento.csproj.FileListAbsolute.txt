@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.csproj.AssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\bin\Debug\net5.0\Entendendo-Encapsulamento.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\bin\Debug\net5.0\Entendendo-Encapsulamento.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\bin\Debug\net5.0\Entendendo-Encapsulamento.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\bin\Debug\net5.0\Entendendo-Encapsulamento.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\bin\Debug\net5.0\Entendendo-Encapsulamento.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\bin\Debug\net5.0\ref\Entendendo-Encapsulamento.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\bin\Debug\net5.0\Entendendo-Encapsulamento.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\ref\Entendendo-Encapsulamento.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Encapsulamento\obj\Debug\net5.0\Entendendo-Encapsulamento.genruntimeconfig.cache

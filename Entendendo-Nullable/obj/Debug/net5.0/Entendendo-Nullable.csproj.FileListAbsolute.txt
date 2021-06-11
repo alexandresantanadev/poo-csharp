@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\bin\Debug\net5.0\Entendendo-Nullable.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\bin\Debug\net5.0\Entendendo-Nullable.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\bin\Debug\net5.0\Entendendo-Nullable.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\bin\Debug\net5.0\Entendendo-Nullable.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\bin\Debug\net5.0\Entendendo-Nullable.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\bin\Debug\net5.0\ref\Entendendo-Nullable.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\bin\Debug\net5.0\Entendendo-Nullable.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.csproj.AssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\ref\Entendendo-Nullable.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Nullable\obj\Debug\net5.0\Entendendo-Nullable.genruntimeconfig.cache

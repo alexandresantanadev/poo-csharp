@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.csprojAssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\bin\Debug\net5.0\Exercicio-Conversor-de-Moeda.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\bin\Debug\net5.0\Exercicio-Conversor-de-Moeda.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\bin\Debug\net5.0\Exercicio-Conversor-de-Moeda.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\bin\Debug\net5.0\Exercicio-Conversor-de-Moeda.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\bin\Debug\net5.0\Exercicio-Conversor-de-Moeda.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\bin\Debug\net5.0\ref\Exercicio-Conversor-de-Moeda.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\bin\Debug\net5.0\Exercicio-Conversor-de-Moeda.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\ref\Exercicio-Conversor-de-Moeda.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Conversor-de-Moeda\obj\Debug\net5.0\Exercicio-Conversor-de-Moeda.genruntimeconfig.cache

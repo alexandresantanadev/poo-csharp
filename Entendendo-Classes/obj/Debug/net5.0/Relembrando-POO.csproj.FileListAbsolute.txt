@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\bin\Debug\net5.0\Relembrando-POO.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\bin\Debug\net5.0\Relembrando-POO.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\bin\Debug\net5.0\Relembrando-POO.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\bin\Debug\net5.0\Relembrando-POO.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\bin\Debug\net5.0\Relembrando-POO.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\bin\Debug\net5.0\ref\Relembrando-POO.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\bin\Debug\net5.0\Relembrando-POO.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.csproj.AssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\ref\Relembrando-POO.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\obj\Debug\net5.0\Relembrando-POO.genruntimeconfig.cache

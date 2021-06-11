@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\bin\Debug\net5.0\Exercicio-Estoque-Produtos.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\bin\Debug\net5.0\Exercicio-Estoque-Produtos.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\bin\Debug\net5.0\Exercicio-Estoque-Produtos.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\bin\Debug\net5.0\Exercicio-Estoque-Produtos.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\bin\Debug\net5.0\Exercicio-Estoque-Produtos.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\bin\Debug\net5.0\ref\Exercicio-Estoque-Produtos.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\bin\Debug\net5.0\Exercicio-Estoque-Produtos.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.csproj.AssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\ref\Exercicio-Estoque-Produtos.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Estoque-Produtos\obj\Debug\net5.0\Exercicio-Estoque-Produtos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.csproj.AssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\bin\Debug\net5.0\Entendendo-Properties-Auto-Properties.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\bin\Debug\net5.0\Entendendo-Properties-Auto-Properties.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\bin\Debug\net5.0\Entendendo-Properties-Auto-Properties.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\bin\Debug\net5.0\Entendendo-Properties-Auto-Properties.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\bin\Debug\net5.0\Entendendo-Properties-Auto-Properties.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\bin\Debug\net5.0\ref\Entendendo-Properties-Auto-Properties.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\bin\Debug\net5.0\Entendendo-Properties-Auto-Properties.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\ref\Entendendo-Properties-Auto-Properties.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Entendendo-Properties-Auto-Properties\obj\Debug\net5.0\Entendendo-Properties-Auto-Properties.genruntimeconfig.cache

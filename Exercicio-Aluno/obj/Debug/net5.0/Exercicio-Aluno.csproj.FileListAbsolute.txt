@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\bin\Debug\net5.0\Exercicio-Aluno.exe
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\bin\Debug\net5.0\Exercicio-Aluno.deps.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\bin\Debug\net5.0\Exercicio-Aluno.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\bin\Debug\net5.0\Exercicio-Aluno.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\bin\Debug\net5.0\Exercicio-Aluno.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\bin\Debug\net5.0\ref\Exercicio-Aluno.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\bin\Debug\net5.0\Exercicio-Aluno.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.csproj.AssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\ref\Exercicio-Aluno.dll
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.pdb
+D:\alexandre\DEV\.NET\Projetos\Relembrando-POO\Exercicio-Aluno\obj\Debug\net5.0\Exercicio-Aluno.genruntimeconfig.cache
